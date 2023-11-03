@@ -1,8 +1,8 @@
 # MQTT (Message Queuing Telemetry Transport) on Esp32
 ### Made in Micropython
 
-<div align+"center">
-    ![Coding.](https://media.giphy.com/media/kD5fGMZcNPiteVDVjw/giphy.gif "MQTT gif") 
+<div align="center">  
+    ![Coding.](https://media.giphy.com/media/kD5fGMZcNPiteVDVjw/giphy.gif "MQTT gif")  
 </div>
 
 
