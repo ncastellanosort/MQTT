@@ -1,17 +1,18 @@
 # MQTT (Message Queuing Telemetry Transport) on Esp32
 ### Made in Micropython
 
-<div align="center">  
-    ![Coding.](https://media.giphy.com/media/kD5fGMZcNPiteVDVjw/giphy.gif "MQTT gif")  
+<div align="center">     
+    ![Coding.](https://media.giphy.com/media/pALw8LdftuqAw/giphy.gif "MQTT gif")  
 </div>
+
+![Coding.](https://media.giphy.com/media/pALw8LdftuqAw/giphy.gif "MQTT gif") 
 
 
 ### In this repo you will a Python Code that connects the Esp32 to [Hive MQ broker](https://www.hivemq.com/demos/websocket-client) to use MQTT:
 
-
 MQTT is a __lightweight and efficient messaging protocol designed for low-bandwidth, high-latency, or unreliable networks__. It was originally developed by IBM in the late 1990s and has since become an open standard widely used in the Internet of Things (IoT), home automation, and other scenarios where devices or applications need to communicate and exchange information 💁.
 
-__Her features are:__
+### __Her features are:__
 
 * __Publish/Subscribe model:__ MQTT follows a publish/subscribe messaging pattern where devices (or clients) can publish messages to specific topics, and other devices can subscribe to those topics to receive the messages. This decoupled communication model is highly scalable and flexible 📢.
 
