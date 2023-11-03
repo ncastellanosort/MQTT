@@ -1,4 +1,4 @@
-# MQTT (Message Queuing Telemetry Transport) on Esp32
+# MQTT (Message Queuing Telemetry Transport) on Esp32 🔌
 ### Made in Micropython
 
 <div align="center">  
