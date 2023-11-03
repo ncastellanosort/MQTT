@@ -1,11 +1,12 @@
 # MQTT (Message Queuing Telemetry Transport) on Esp32
 ### Made in Micropython
 
-<div align="center">     
-    ![Coding.](https://media.giphy.com/media/pALw8LdftuqAw/giphy.gif "MQTT gif")  
+<div align="center">  
+    
+ ![Coding.](https://media.giphy.com/media/pALw8LdftuqAw/giphy.gif "MQTT gif") 
+    
 </div>
 
-![Coding.](https://media.giphy.com/media/pALw8LdftuqAw/giphy.gif "MQTT gif") 
 
 
 ### In this repo you will a Python Code that connects the Esp32 to [Hive MQ broker](https://www.hivemq.com/demos/websocket-client) to use MQTT:
